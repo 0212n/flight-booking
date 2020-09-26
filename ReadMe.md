@@ -17,8 +17,6 @@ Besides these two primary end-points, there are few other end-points to support 
 5. GET /passengers
 6. GET /passengers/{passenger-id}
 
-To test these end-points, see the API documentation section [here](#markdown-header-api-documentation-and-integration-testing)
-
 ## Technologies used
 
 1. Java (Programming Language)
@@ -42,7 +40,7 @@ The source code can be checked out to your local and then build and run the appl
 #### Clone this repo into your local: 
 	
 ```
-git clone https://sameerean@bitbucket.org/sameerean/flight-booking.git
+git clone https://sameerean@bitbucket.org/0212n/flight-booking.git
 ```
 
 ####  Build using maven 
